@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/MyImage.cpp.o Debug/MyHistogram.cpp.o Debug/MyRotateDialog.cpp.o Debug/MyThresholdDialog.cpp.o

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="M4105_C++" Database="" Version="10000">
+  <Project Name="hellow_word" Path="hellow_word.project" Active="No"/>
+  <Project Name="tp2" Path="tp2/tp2.project" Active="No"/>
+  <Project Name="tp3" Path="tp3/tp3.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="hellow_word" ConfigName="Debug"/>
+      <Project Name="tp2" ConfigName="Debug"/>
+      <Project Name="tp3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="hellow_word" ConfigName="Release"/>
+      <Project Name="tp2" ConfigName="Release"/>
+      <Project Name="tp3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
